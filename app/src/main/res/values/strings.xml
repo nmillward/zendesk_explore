@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ZendeskExploration</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- MAIN ACTIVITY -->
+    <string name="btn_knowledge_base">Knowledge Base</string>
+    <string name="btn_contact_us">Contact Us</string>
+    <string name="btn_my_tickets">My Tickets</string>
+    <string name="btn_start_chat">Start Chat</string>
+</resources>
